@@ -1,0 +1,12 @@
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\bin\Debug\net7.0\ChatRoom.Common.deps.json
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\bin\Debug\net7.0\ChatRoom.Common.dll
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\bin\Debug\net7.0\ChatRoom.Common.pdb
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.dll
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\refint\ChatRoom.Common.dll
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ChatRoom.Common.pdb
+D:\BaiduNetdiskDownload\orleans\simple zip\samples-main\orleans\ChatRoom\ChatRoom.Common\obj\Debug\net7.0\ref\ChatRoom.Common.dll
