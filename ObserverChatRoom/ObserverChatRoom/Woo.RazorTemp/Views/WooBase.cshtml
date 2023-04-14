@@ -1,0 +1,27 @@
+﻿@using RazorLight;
+
+using SpaceNation.Core.Abstractions.Protocol.Generation;
+
+namespace SpaceNation.Game.Networks.Interface;
+public abstract class @(Model.InterfaceName)CallObject
+{
+    public class @(Model.InterfaceName)Request
+    {
+        public string Token { get; } = string.Empty;
+    }
+
+    public class @(Model.InterfaceName)Response
+    {
+         bool IsError { get; }
+         public List<GameCharacterInfo>? Result { get; }
+         ErrorBase? Error { get; }
+    }
+
+    public class test{
+
+    }
+
+ }
+
+    
+

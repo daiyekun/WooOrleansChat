@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PreserveCompilationReferences>true</PreserveCompilationReferences>
+		<PreserveCompilationContext>true</PreserveCompilationContext>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Woo.Models\Woo.Models.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="CodeFile\" />
+	  <Folder Include="CacheFile\" />
+	</ItemGroup>
+
+</Project>

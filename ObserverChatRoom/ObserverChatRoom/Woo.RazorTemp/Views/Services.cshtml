@@ -1,0 +1,57 @@
+﻿@using RazorLight;
+@inherits TemplatePage<List< Woo.Models.CallObjectMetadata>>
+
+namespace SpaceNation.Game.Networks.Interface;
+
+@{
+
+foreach (var svcitem in Model)
+{
+        
+<text>
+public abstract class @(svcitem.MethodName)CallObject : ICallResponse
+{
+    internal static MethodTypeId sTid = new(@(svcitem.ServiceId), @(svcitem.MethodId));
+    public class @(svcitem.MethodName)Request
+    {
+        @foreach (var reqparam in svcitem.RequestMetadatas)
+        {
+                <text>public @(reqparam.Type) @(reqparam.Name) { get; } =default;</text>
+
+        }
+
+    }
+
+    public class @(svcitem.MethodName)Response
+    {
+        bool IsError { get; }
+        public @(svcitem.ResponseMetadatas)? Result { get; }
+        ErrorBase? Error { get; }
+    }
+
+    @Raw($"Dictionary<ulong, TaskCompletionSource<{svcitem.MethodName}Response>> _waits = new Dictionary<ulong, TaskCompletionSource<{svcitem.MethodName}Response>>()");
+
+    public @(svcitem.MethodName)Request Request { get; }
+
+    public @(svcitem.MethodName)Response? Response { get; }
+
+    MethodTypeId ICallResponse.Tid => sTid;
+
+    public virtual async Task<@(svcitem.MethodName)Response>GetResponseAsync(ulong callId)
+        {
+            TaskCompletionSource<@(svcitem.MethodName)Response>
+            tcs = new TaskCompletionSource<@(svcitem.MethodName)Response>();
+                _waits[callId] = tcs;
+
+                return await tcs.Task;
+
+            }
+
+        public abstract ValueTask SetResponseAsync(ulong callId, ReadOnlySequence<byte>span);
+
+        }
+</text>
+}
+
+}
+

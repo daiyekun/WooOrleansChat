@@ -11,7 +11,20 @@
         /// <returns></returns>
         public Task ReceiveMessage(ChatMessage chatMessage)
         {
-            Console.WriteLine($"[{chatMessage.Name}/t{chatMessage.SendTime}]:{chatMessage.Message}");
+            if (chatMessage.MsgType == 0)
+            {
+                Console.WriteLine($"[{chatMessage.Name}/t{chatMessage.SendTime}]:{chatMessage.Message}");
+            }else if (chatMessage.MsgType == 1)
+            {
+                Console.WriteLine($"{chatMessage.Message}");
+            }
+            else
+            {
+                Console.WriteLine($"未知消息.....");
+            }
+           
+           
+             
             return Task.CompletedTask;
         }
     }

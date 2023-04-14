@@ -1,0 +1,12 @@
+﻿@using RazorLight;
+
+@inherits TemplatePage<Woo.Models.RazorDataModel>
+
+@{
+    //测试IncludeAsync 而已
+    await IncludeAsync("WooBase.cshtml", Model);
+ }
+ 
+
+
+

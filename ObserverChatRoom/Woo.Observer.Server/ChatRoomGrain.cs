@@ -42,6 +42,7 @@ namespace Woo.Observer.Server
             _subsManager.Unsubscribe(observer);
 
             return Task.CompletedTask;
+            
         }
 
         public Task SendUpdateMessage(ChatMessage chatMessage)
@@ -49,6 +50,16 @@ namespace Woo.Observer.Server
             _subsManager.Notify(s => s.ReceiveMessage(chatMessage));
 
             return Task.CompletedTask;
+        }
+
+        /// <summary>
+        /// 没法获取数量
+        /// </summary>
+        /// <returns></returns>
+        public Task<long> JoinMsgCount()
+        {
+           var linecount= _subsManager.LongCount();
+           return Task.FromResult(linecount);
         }
 
     }

@@ -31,5 +31,10 @@ namespace Woo.Observer.Server
         /// <param name="chatMessage"></param>
         /// <returns></returns>
         Task SendUpdateMessage(ChatMessage chatMessage);
+        /// <summary>
+        /// 观察者队列数
+        /// </summary>
+        /// <returns></returns>
+        Task<long> JoinMsgCount();
     }
 }

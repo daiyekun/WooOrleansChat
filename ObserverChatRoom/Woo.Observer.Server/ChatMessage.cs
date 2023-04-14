@@ -17,16 +17,21 @@ namespace Woo.Observer.Server
         /// 发送名称
         /// </summary>
         [Id(0)]
-        public string Name { get; set; }
+        public string? Name { get; set; }
         /// <summary>
         /// 消息
         /// </summary>
         [Id(1)]
-        public string Message { get; set; }
+        public string? Message { get; set; }
         /// <summary>
         /// 发送时间
         /// </summary>
         [Id(2)]
-        public DateTime SendTime { get; set; }
-    }
+        public DateTime? SendTime { get; set; }
+        /// <summary>
+        ///消息类型
+        /// </summary>
+        [Id(3)]
+        public int MsgType { get; set; } = 0;
+      }
 }
