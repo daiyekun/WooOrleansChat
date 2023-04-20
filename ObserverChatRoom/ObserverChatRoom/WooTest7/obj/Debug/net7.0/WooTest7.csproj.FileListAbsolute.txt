@@ -1,0 +1,12 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\bin\Debug\net7.0\WooTest7.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\bin\Debug\net7.0\WooTest7.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\bin\Debug\net7.0\WooTest7.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\refint\WooTest7.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\WooTest7.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTest7\obj\Debug\net7.0\ref\WooTest7.dll

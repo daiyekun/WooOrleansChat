@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\新建文件夹\WooTask7.dll
+C:\Users\user\Desktop\新建文件夹\WooTask7.deps.json
+C:\Users\user\Desktop\新建文件夹\WooTask7.pdb
+C:\Users\user\Desktop\新建文件夹\Microsoft.Build.Framework.dll
+C:\Users\user\Desktop\新建文件夹\Microsoft.Build.Utilities.Core.dll
+C:\Users\user\Desktop\新建文件夹\Microsoft.NET.StringTools.dll
+C:\Users\user\Desktop\新建文件夹\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\新建文件夹\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\新建文件夹\System.Drawing.Common.dll
+C:\Users\user\Desktop\新建文件夹\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\新建文件夹\System.Security.Permissions.dll
+C:\Users\user\Desktop\新建文件夹\System.Windows.Extensions.dll
+C:\Users\user\Desktop\新建文件夹\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\新建文件夹\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\新建文件夹\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\新建文件夹\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\新建文件夹\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

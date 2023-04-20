@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" DefaultTargets="wooBuildCompile;wooAfterBuild">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Build.Framework" Version="17.5.0" PrivateAssets="all" />
+		<PackageReference Include="Microsoft.Build.Utilities.Core" Version="17.5.0" PrivateAssets="all" />
+		<!--<Reference Include="System.Runtime">
+			<RequiredTargetFramework>7.0</RequiredTargetFramework>
+			
+		</Reference>-->
+		
+	</ItemGroup>
+	
+	<!--<UsingTask TaskName="FirstBuildTask.MyBuildTask" AssemblyFile="C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\FirstBuildTask\bin\Debug\net7.0\FirstBuildTask.dll" />-->
+	<UsingTask TaskName="MyBuildTask" AssemblyFile="..\WooFirstTask\bin\Debug\netstandard2.0\WooFirstTask.dll" />
+	<Target Name="wooBuildCompile">
+		<Message Text="Hello2"></Message>
+		<Message Text="World2"></Message>
+		<MyBuildTask OutputFile="$(MSBuildProjectFullPath)" />
+      
+	</Target>
+	<Target Name="wooAfterBuild">
+    <Exec Command="msbuild" IgnoreExitCode="false" ConsoleToMSBuild="true"  ></Exec>
+	</Target>
+	
+	 <!--<Target Name="HelloWorld">
+		<Message Text="Hello"></Message>
+		<Message Text="World"></Message>
+	</Target>-->
+
+	
+	
+
+</Project>

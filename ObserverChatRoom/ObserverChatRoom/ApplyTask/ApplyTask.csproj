@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<BaseProjPath>$(MSBuildProjectDirectory.Replace(`ApplyTask`,``))</BaseProjPath>
+	<WooTempPath>$([System.IO.Path]::Combine($(MSBuildProjectDirectory.Replace(`ApplyTask`,``)),`WooTemp`,`Views`))</WooTempPath>
+	<WooCachePath>$([System.IO.Path]::Combine($(MSBuildProjectDirectory.Replace(`ApplyTask`,``)),`WooTemp`,`CacheFiles`))</WooCachePath>
+	<WooCodeFilePath>$([System.IO.Path]::Combine($(MSBuildProjectDirectory.Replace(`ApplyTask`,``)),`WooTemp`,`CacheFiles`))</WooCodeFilePath>
+	
+  </PropertyGroup>
+
+	<!--<UsingTask AssemblyFile="$(MSBuildProjectDirectory)..\..\bin\Debug\netstandard2.0\WooTask.dll" TaskName="WooTask"></UsingTask>-->
+	<UsingTask TaskName="StartTask" AssemblyFile="$(BaseProjPath)\WooTask\BinFile\netstandard2.0\WooTask.dll" Architecture="x86"></UsingTask>
+
+	<Target Name="HelloWorld" BeforeTargets="CoreCompile">
+		<Message Text="Hello World！test 测试消息 " Importance="high" />
+		<Message Text=" MSBuildProjectDirectory=&gt;$(MSBuildProjectDirectory.Replace(`ApplyTask`,``))" Importance="high" />
+		<Message Text="MSBuildProjectDirectoryNoRoot=&gt; $(MSBuildProjectDirectoryNoRoot)" Importance="high" />
+		<Message Text="MSBuildThisFileDirectory=&gt;$(MSBuildThisFileDirectory)" Importance="high" />
+		<Message Text="WooTempPath=&gt;$(WooTempPath)" Importance="high" />
+		<Message Text="BaseProjPath=&gt;$(BaseProjPath)" Importance="high" />
+	</Target>
+
+	<!--<Target Name="WooTask" AfterTargets="build">-->
+	
+     <Target Name="StartTask" BeforeTargets="CoreCompile" AfterTargets="HelloWorld">
+		 <StartTask RazorTmpPath="$(WooTempPath)" CacheFilePath="$(WooCachePath)" CodePath="$(WooCodeFilePath)">
+			 
+		 </StartTask>
+		
+	</Target>
+	
+</Project>

@@ -1,0 +1,10 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\bin\Debug\netstandard2.0\WooFirstTask.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\bin\Debug\netstandard2.0\WooFirstTask.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\obj\Debug\netstandard2.0\WooFirstTask.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooFirstTask\bin\Debug\netstandard2.0\WooFirstTask.pdb

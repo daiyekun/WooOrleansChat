@@ -1,0 +1,4 @@
+2023/4/20 11:22:38=>	
+RazorTmpPath:=>C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\Views=>	
+CodePath:C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\CacheFiles	
+CacheFilePath:=>C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\CacheFiles

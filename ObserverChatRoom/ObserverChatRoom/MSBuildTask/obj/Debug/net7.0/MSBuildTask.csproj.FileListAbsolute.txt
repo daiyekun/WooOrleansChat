@@ -1,0 +1,12 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\bin\Debug\net7.0\MSBuildTask.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\bin\Debug\net7.0\MSBuildTask.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\bin\Debug\net7.0\MSBuildTask.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\refint\MSBuildTask.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\MSBuildTask.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\MSBuildTask\obj\Debug\net7.0\ref\MSBuildTask.dll

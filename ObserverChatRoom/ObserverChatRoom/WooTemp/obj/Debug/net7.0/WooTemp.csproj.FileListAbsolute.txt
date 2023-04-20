@@ -1,0 +1,12 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\bin\Debug\net7.0\WooTemp.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\bin\Debug\net7.0\WooTemp.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\bin\Debug\net7.0\WooTemp.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\refint\WooTemp.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\WooTemp.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\WooTemp\obj\Debug\net7.0\ref\WooTemp.dll

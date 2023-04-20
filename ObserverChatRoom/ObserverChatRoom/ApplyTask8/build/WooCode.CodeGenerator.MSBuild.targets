@@ -1,0 +1,36 @@
+<Project>
+	<PropertyGroup>
+		<BaseProjPath>$(MSBuildProjectDirectory.Replace(`ApplyTask8`,``))</BaseProjPath>
+		<WooTempPath>$([System.IO.Path]::Combine($(MSBuildProjectDirectory.Replace(`ApplyTask8`,``)),`WooTemp`,`Views`))</WooTempPath>
+		<WooCachePath>$([System.IO.Path]::Combine($(MSBuildProjectDirectory.Replace(`ApplyTask8`,``)),`WooTemp`,`CacheFiles`))</WooCachePath>
+		<WooCodeFilePath>$([System.IO.Path]::Combine($(MSBuildProjectDirectory.Replace(`ApplyTask8`,``)),`WooTemp`,`CacheFiles`))</WooCodeFilePath>
+
+	</PropertyGroup>
+
+	<!--<UsingTask TaskName="StartTask" AssemblyFile="$(BaseProjPath)\WooTask7\BinFile\net7.0\WooTask.dll" ></UsingTask>-->
+
+	<Target Name="HelloWorld" BeforeTargets="CoreCompile">
+		<Message Text="Hello World！test 测试消息 " Importance="high" />
+		<Message Text=" MSBuildProjectDirectory=&gt;$(MSBuildProjectDirectory.Replace(`ApplyTask8`,``))" Importance="high" />
+		<Message Text="MSBuildProjectDirectoryNoRoot=&gt; $(MSBuildProjectDirectoryNoRoot)" Importance="high" />
+		<Message Text="MSBuildThisFileDirectory=&gt;$(MSBuildThisFileDirectory)" Importance="high" />
+		<Message Text="WooTempPath=&gt;$(WooTempPath)" Importance="high" />
+		<Message Text="BaseProjPath=&gt;$(BaseProjPath)" Importance="high" />
+		<Message Text="Solution目录：$(SolutionDir)" Importance="high"></Message>
+		<Message Text="builddir目录：$(builddir)" Importance="high"></Message>
+		
+	</Target>
+
+	<!--<Target Name="WooTask" AfterTargets="build">-->
+
+	<Target Name="StartTask" BeforeTargets="CoreCompile" AfterTargets="HelloWorld">
+		<!--<StartTask RazorTmpPath="$(WooTempPath)" CacheFilePath="$(WooCachePath)" CodePath="$(WooCodeFilePath)">
+
+		</StartTask>-->
+
+		<Exec IgnoreStandardErrorWarningFormat="True" Command="$(BaseProjPath)TestApp\bin\Debug\net7.0\TestApp.exe 模板路径 dll路径 代码路径" ConsoleToMSBuild="true">
+
+		</Exec>
+
+	</Target>
+</Project>

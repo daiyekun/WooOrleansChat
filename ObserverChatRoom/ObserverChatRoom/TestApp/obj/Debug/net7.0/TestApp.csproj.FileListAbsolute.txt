@@ -1,0 +1,15 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\bin\Debug\net7.0\TestApp.exe
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\bin\Debug\net7.0\TestApp.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\bin\Debug\net7.0\TestApp.runtimeconfig.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\bin\Debug\net7.0\TestApp.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\bin\Debug\net7.0\TestApp.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\TestApp.genruntimeconfig.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestApp\obj\Debug\net7.0\ref\TestApp.dll

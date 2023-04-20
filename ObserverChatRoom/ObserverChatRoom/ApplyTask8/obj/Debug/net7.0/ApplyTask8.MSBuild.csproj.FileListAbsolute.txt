@@ -1,0 +1,15 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\bin\Debug\net7.0\ApplyTask8.exe
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\bin\Debug\net7.0\ApplyTask8.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\bin\Debug\net7.0\ApplyTask8.runtimeconfig.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\bin\Debug\net7.0\ApplyTask8.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\bin\Debug\net7.0\ApplyTask8.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.MSBuild.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.MSBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.MSBuild.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.MSBuild.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.MSBuild.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\refint\ApplyTask8.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ApplyTask8.MSBuild.genruntimeconfig.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\ApplyTask8\obj\Debug\net7.0\ref\ApplyTask8.dll

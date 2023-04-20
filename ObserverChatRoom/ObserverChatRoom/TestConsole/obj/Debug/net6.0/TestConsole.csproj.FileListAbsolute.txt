@@ -1,0 +1,15 @@
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\refint\TestConsole.dll
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
+C:\WooCode\WooChatRoom\ObserverChatRoom\ObserverChatRoom\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
